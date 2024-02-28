@@ -6,4 +6,7 @@ This is a repository for creating a medical chatbot by using Llama2 and these ar
 02. then activate the virtual environment
     'conda activate YourEnvironment'
 
-03. 
+03. goto your terminal and type
+    'pip install -r requirements.txt'
+
+04. 
